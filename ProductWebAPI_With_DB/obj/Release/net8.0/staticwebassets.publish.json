@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vQBQrmnHw6sF4ej5AF8bIsIEZhqerJgO3Mu8X2XEvXY=",
+  "Source": "ProductWebAPI_With_DB",
+  "BasePath": "_content/ProductWebAPI_With_DB",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

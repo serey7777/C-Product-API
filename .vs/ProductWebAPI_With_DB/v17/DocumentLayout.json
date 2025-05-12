@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lesson\\C#\\Web API\\API Project\\ProductWebAPI_With_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1A62EF-D132-4AC9-BCF8-3301B252C749}|ProductWebAPI_With_DB\\ProductWebAPI_With_DB.csproj|d:\\lesson\\c#\\web api\\api project\\productwebapi_with_db\\productwebapi_with_db\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1A62EF-D132-4AC9-BCF8-3301B252C749}|ProductWebAPI_With_DB\\ProductWebAPI_With_DB.csproj|solutionrelative:productwebapi_with_db\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Lesson\\C#\\Web API\\API Project\\ProductWebAPI_With_DB\\ProductWebAPI_With_DB\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductWebAPI_With_DB\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Lesson\\C#\\Web API\\API Project\\ProductWebAPI_With_DB\\ProductWebAPI_With_DB\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductWebAPI_With_DB\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:42:46.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
